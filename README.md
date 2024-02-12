@@ -10,8 +10,6 @@ Use hashtags, tab for blockquotes, double stars, underline and single quotations
   #### Tailwind
   #### Jotai
 
-Resources
-
 
 ## Project Setup
 
