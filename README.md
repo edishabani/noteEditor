@@ -1,6 +1,7 @@
 # NoteEditor
 
 A minimal Note taking app with out-of-the-box markdown support.
+Use hashtags, tab for blockquotes, double stars, underline and single quotations for the markdown inputs.
 
 
 ## Project Setup
